@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lengyue1024&show_icons=true&hide_title=true&theme=cobalt">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
 ### Hi there,I'm [Bingyu](https://bingyublog.com) 👋
 
 
