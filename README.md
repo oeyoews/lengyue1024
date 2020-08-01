@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lengyue1024/lengyue1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,20 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lengyue1024&show_icons=true&hide_title=true">
-2
-​
-3
-### Hi there 👋
-4
-​
-5
-> Hi, I'm Bingyu.
-6
-​
-7
-🇨🇳 &nbsp;China BeiJing  &nbsp;&nbsp;&nbsp; 🌱 &nbsp;Unknow
-8
-​
-9
-[https:/bingyublog.com](https://bingyublog.com)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lengyue1024&show_icons=true&hide_title=true&theme=radical">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+### Hi there,I'm [Bingyu](https://bingyublog.com) 👋
+
+
