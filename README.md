@@ -20,19 +20,6 @@ Here are some ideas to get you started:
 
 Hi, I'm Bingyu, a college student majoring in electronics.
 
-
-<table border="0">
-    <tr>
-        <td><center><ul>
-<li>🔭 I’m currently working on my project</li>
-<li>🌱 I’m currently learning Java & Vue</li>
-</ul>
-</center></td>
-        <td><center><a href="https://github.com/lengyue1024"><img src="https://ghchart.rshah.org/409ba5/lengyue1024" alt="bingyu's Github Chart" /></a></center></td>
-    </tr>
-</table>
-
-
 - 🔭 I’m currently working on my project [SuperMall](https://github.com/lengyue1024/supermall)
 - 🌱 I’m currently learning Java & Vue
 - 📫 How to reach me: [![email](https://wangchujiang.com/sb/ico/email.svg)](mailto:xzhxpx@qq.com)
@@ -45,6 +32,8 @@ Hi, I'm Bingyu, a college student majoring in electronics.
         <td><center><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lengyue1024&layout=compact&theme=merko" /></center></td>
     </tr>
 </table>
+
+<a href="https://github.com/lengyue1024"><img src="https://ghchart.rshah.org/409ba5/lengyue1024" alt="bingyu's Github Chart" /></a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
