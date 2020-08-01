@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ✨Hi, I'm Bingyu, a college student majoring in electronics.✨
 
 
-<img align="right" alt="This is my state" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300"/>
+<img align="center" alt="This is my state" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 
 
 - 🔭 I’m currently working on my project [SuperMall](https://github.com/lengyue1024/supermall)
