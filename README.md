@@ -28,7 +28,7 @@ Hi, I'm Bingyu, a college student majoring in electronics.
 <table border="0">
     <tr>
         <td><center><img align="center" src="https://github-readme-stats.vercel.app/api?username=lengyue1024&show_icons=true&hide_title=true&theme=cobalt"></center></td>
-        <td><center><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lengyue1024&layout=compact&theme=merko" /></center></td>
+        <td><center><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lengyue1024&layout=compact&theme=highcontrast" /></center></td>
     </tr>
 </table>
 
