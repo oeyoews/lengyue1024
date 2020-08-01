@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ✨Hi, I'm Bingyu, a college student majoring in electronics.✨
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250"/>
+
+<img align="right" alt="This is my state" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300"/>
+
 
 - 🔭 I’m currently working on my project [SuperMall](https://github.com/lengyue1024/supermall)
 - 🌱 I’m currently learning Java & Vue
@@ -36,7 +38,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/lengyue1024"><img src="https://ghchart.rshah.org/409ba5/lengyue1024" alt="bingyu's Github Chart" /></a>
 
 
-
+### Languages and Tools:
 
 ### Technical Skills
 
