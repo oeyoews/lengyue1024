@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### Hi there, I'm [Bingyu!](https://bingyublog.com) 👋
 > :octocat: 想把自己培养成技术型宅男，宅和男已经具备，就差技术了→_→
 <br>
