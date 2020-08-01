@@ -28,12 +28,11 @@ Here are some ideas to get you started:
 
 <table border="0">
     <tr>
-        <td><center><img align="center" src="https://github-readme-stats.vercel.app/api?username=lengyue1024&show_icons=true&hide_title=true&theme=cobalt"></center></td>
-        <td><center><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lengyue1024&layout=compact&theme=merko" /></center></td>
+        <td><center><img align="center" src="https://github-readme-stats.vercel.app/api?username=lengyue1024&show_icons=true&count_private=true&hide_title=true&theme=cobalt"></center></td>
+        <td><center><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lengyue1024&count_private=true&layout=compact&theme=merko" /></center></td>
     </tr>
-    <caption><a href="https://github.com/lengyue1024"><img src="https://ghchart.rshah.org/409ba5/lengyue1024" alt="bingyu's Github Chart" /></a></caption>
 </table>
-
+<a href="https://github.com/lengyue1024"><img src="https://ghchart.rshah.org/409ba5/lengyue1024" alt="bingyu's Github Chart" /></a>
 
 
 <!-- [![email](https://wangchujiang.com/sb/ico/email.svg)](mailto:xzhxpx@qq.com) -->
