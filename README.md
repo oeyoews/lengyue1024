@@ -33,7 +33,7 @@ Hi, I'm Bingyu, a college student majoring in electronics.
     </tr>
 </table>
 
-<a href="https://github.com/lengyue1024"><img src="https://ghchart.rshah.org/lengyue1024" alt="bingyu's Github Chart" /></a>
+<a href="https://github.com/lengyue1024"><img src="https://ghchart.rshah.org/409ba5/lengyue1024" alt="bingyu's Github Chart" /></a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
