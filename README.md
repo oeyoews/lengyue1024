@@ -21,7 +21,7 @@ Hi, I'm Bingyu, a college student majoring in electronics.
 
 - 🔭 I’m currently working on my project [SuperMall](https://github.com/lengyue1024/supermall)
 - 🌱 I’m currently learning Java & Vue
-- 📫 How to reach me: [![blog](https://wangchujiang.com/sb/ico/linux.svg)](https://www.bingyublog.com) [![email](https://wangchujiang.com/sb/ico/email.svg)](mailto:xzhxpx@qq.com)
+- 📫 How to reach me: [![email](https://wangchujiang.com/sb/ico/email.svg)](mailto:xzhxpx@qq.com)
 - 💬 Ask me about anything [here](https://github.com/lengyue1024/lengyue1024/issues)
 <br>
 
