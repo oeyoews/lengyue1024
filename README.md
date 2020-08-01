@@ -32,3 +32,10 @@ Here are some ideas to get you started:
     </tr>
 </table> -->
 
+<table>
+    <tr>
+        <td><center><a href="https://github.com/octocatHub/octocathub.github.io/graphs/contributors"><img src="./.vuepress/public/bingyu.jpg" width="100" height="100" alt="Contributor" /></a></center></td>
+        <td><center><a href="https://github.com/lengyue1024"><img src="https://ghchart.rshah.org/409ba5/lengyue1024" alt="bingyu's Github Chart" /></a></center></td>
+    </tr>
+
+</table>
