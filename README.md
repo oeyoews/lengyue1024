@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lengyu1024&show_icons=true&hide_title=true">
+2
+​
+3
+### Hi there 👋
+4
+​
+5
+> Hi, I'm Bingyu.
+6
+​
+7
+🇨🇳 &nbsp;China BeiJing  &nbsp;&nbsp;&nbsp; 🌱 &nbsp;Unknow
+8
+​
+9
+[https:/bingyublog.com](https://bingyublog.com)
