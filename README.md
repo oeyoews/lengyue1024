@@ -59,7 +59,10 @@ Here are some ideas to get you started:
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 <br>
 
-<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
+[![Word](https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word)](https://github.com/lengyue1024)
+[![Excel](https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel)](https://github.com/lengyue1024)
+[![PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint)](https://github.com/lengyue1024)
+
 
 
 
