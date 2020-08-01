@@ -13,18 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230"/>
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-</p>
-
 ### Hi there, I'm [Bingyu!](https://bingyublog.com) 👋
 > :octocat: 想把自己培养成技术型宅男，宅和男已经具备，就差技术了→_→
 <br>
 
 ✨Hi, I'm Bingyu, a college student majoring in electronics.✨
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230"/>
 - 🔭 I’m currently working on my project [SuperMall](https://github.com/lengyue1024/supermall)
 - 🌱 I’m currently learning Java & Vue
 - 📫 How to reach me: [send mail](mailto:xzhxpx@qq.com)
