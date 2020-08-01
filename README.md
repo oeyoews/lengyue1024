@@ -16,10 +16,18 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 ### Hi there,I'm [Bingyu](https://bingyublog.com) 👋
 
+<table>
+
+    <tr>
+
+        <td><center><a href="https://github.com/octocatHub/octocathub.github.io/graphs/contributors"><img src="./.vuepress/public/bingyu.jpg" width="100" height="100" alt="Contributor" /></a></center></td>
+        <td><center><a href="https://github.com/lengyue1024"><img src="https://ghchart.rshah.org/409ba5/lengyue1024" alt="bingyu's Github Chart" /></a></center></td>
+    </tr>
+</table>
 
