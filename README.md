@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java & Vue
 - 📫 How to reach me: [send mail](mailto:xzhxpx@qq.com)
 - 💬 Ask me about anything [here](https://github.com/lengyue1024/lengyue1024/issues)
-</br>
+<br>
+<br>
 
 <table border="0">
     <tr>
