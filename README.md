@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ✨Hi, I'm Bingyu, a college student majoring in electronics.✨
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250"/>
 
 - 🔭 I’m currently working on my project [SuperMall](https://github.com/lengyue1024/supermall)
 - 🌱 I’m currently learning Java & Vue
