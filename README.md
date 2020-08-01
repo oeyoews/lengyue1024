@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
-
-### Hi there,I'm [Bingyu](https://bingyublog.com) 👋
+<!-- 
+### Hi there,I'm [Bingyu](https://bingyublog.com) 👋 -->
 
 <!-- <table>
 
