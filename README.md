@@ -12,14 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lengyue1024&show_icons=true&hide_title=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lengyue1024&show_icons=true&hide_title=true&theme=tokyonight">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Hi there,I'm [Bingyu](https://bingyublog.com) 👋
 
