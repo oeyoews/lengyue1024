@@ -63,15 +63,6 @@ Here are some ideas to get you started:
 [![Excel](https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel)](https://github.com/lengyue1024)
 [![PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint)](https://github.com/lengyue1024)
 
-
-
-
-
-
-
-
-
-
 <!-- [![email](https://wangchujiang.com/sb/ico/email.svg)](mailto:xzhxpx@qq.com) -->
 
 <!-- 
