@@ -14,7 +14,16 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm [Bingyu](https://bingyublog.com) 👋
+### Hi there, I'm [Bingyu!](https://bingyublog.com) 👋
+<br>
+
+Hi, I'm Bingyu, a college student majoring in electronics.
+
+- 🔭 I’m currently working on my project [SuperMall](https://github.com/lengyue1024/supermall)
+- 🌱 I’m currently learning Java & Vue
+- 📫 How to reach me: [![blog](https://wangchujiang.com/sb/ico/linux.svg)](https://www.bingyublog.com) [![email](https://wangchujiang.com/sb/ico/email.svg)](mailto:xzhxpx@qq.com)
+- 💬 Ask me about anything [here](https://github.com/lengyue1024/lengyue1024/issues)
+<br>
 
 <table border="0">
     <tr>
@@ -22,8 +31,6 @@ Here are some ideas to get you started:
         <td><center><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lengyue1024&layout=compact&theme=merko" /></center></td>
     </tr>
 </table>
-
-
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
