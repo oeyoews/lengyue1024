@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 
 
 ### Hi there, I'm [Bingyu!](https://bingyublog.com) 👋
-> :octocat: 想把自己培养成技术型宅男，宅和男已经具备，就差技术了→_→
+> ✨:octocat: 想把自己培养成技术型宅男，宅和男已经具备，就差技术了→_→✨
 <br>
 
-Hi, I'm Bingyu, a college student majoring in electronics.
+✨Hi, I'm Bingyu, a college student majoring in electronics.✨
 
 - 🔭 I’m currently working on my project [SuperMall](https://github.com/lengyue1024/supermall)
 - 🌱 I’m currently learning Java & Vue
 - 📫 How to reach me: [send mail](mailto:xzhxpx@qq.com)
-<!-- [![email](https://wangchujiang.com/sb/ico/email.svg)](mailto:xzhxpx@qq.com) -->
 - 💬 Ask me about anything [here](https://github.com/lengyue1024/lengyue1024/issues)
 <br>
 
@@ -36,9 +35,7 @@ Hi, I'm Bingyu, a college student majoring in electronics.
 
 <a href="https://github.com/lengyue1024"><img src="https://ghchart.rshah.org/409ba5/lengyue1024" alt="bingyu's Github Chart" /></a>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
+<!-- [![email](https://wangchujiang.com/sb/ico/email.svg)](mailto:xzhxpx@qq.com) -->
 
 <!-- 
 ### Hi there,I'm [Bingyu](https://bingyublog.com) 👋 -->
