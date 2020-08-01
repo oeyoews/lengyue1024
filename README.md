@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there, I'm [Bingyu!](https://bingyublog.com) 👋
-> :ocatocat: 想把自己培养成技术型宅男，宅和男已经具备，就差技术了→_→
+> :octocat: 想把自己培养成技术型宅男，宅和男已经具备，就差技术了→_→
 <br>
 
 Hi, I'm Bingyu, a college student majoring in electronics.
